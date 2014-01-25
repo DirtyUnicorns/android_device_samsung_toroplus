@@ -2,7 +2,7 @@
   {
     "remote":      "du",
     "repository":  "android_device_samsung_tuna",
-    "target_path": "device/samsung/qcom-common",
+    "target_path": "device/samsung/tuna",
     "revision":    "du44"
   },
  
